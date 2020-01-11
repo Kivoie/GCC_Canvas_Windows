@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Custom Directories
+logs/
+
+# C/CPP files (Only g++_prompt.bat and gcc_prompt.bat should be staged)
+*.cpp
+*.c
